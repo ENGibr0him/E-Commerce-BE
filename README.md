@@ -30,7 +30,7 @@ This project is designed to help you build a backend for an e-commerce website u
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:ENGibr0him/E-Commerce-BE.git
 ```
 
 ### 2. Install dependencies:
@@ -196,8 +196,7 @@ mongoose
 
 This backend project sets up a simple e-commerce API with user authentication, product management, and a cart system using **MongoDB** and **Express.js**. You can extend the functionality further by implementing features like admin roles, product filtering, and adding authentication for routes.
 
-For any further issues or enhancements, feel free to ask for help!
 
 ---
 
-**End of README**
+
